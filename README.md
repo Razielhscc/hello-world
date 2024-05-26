@@ -1,1 +1,1 @@
-NEW RANCH FOR this is for git flow # hello-world
+A NEW RANCH FOR this is for git flow # hello-world
